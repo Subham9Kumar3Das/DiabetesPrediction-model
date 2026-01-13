@@ -4,3 +4,4 @@ numpy
 Scikit-learn
 matplotlib
 seaborn
+pickle-mixin
