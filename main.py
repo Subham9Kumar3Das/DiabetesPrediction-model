@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 
 # Load scaler and model
-scaler = pickle.load(open("models/Scaled.pkl", "rb"))
-model = pickle.load(open("models/svc.pkl", "rb"))
+scaler = pickle.load(open("Model/Scaled.pkl", "rb"))
+model = pickle.load(open("Model/svc.pkl", "rb"))
 
 # App title
 st.set_page_config(page_title="Diabetes Prediction App", layout="centered")
