@@ -10,7 +10,7 @@ python app.py
 ```
 
 
-To access your flask application open new tab in and paste the url:
+To access live app:
 ```
-https://{your_url}.pwskills.app:5000/
+https://diabetesprediction-skd.streamlit.app
 ```
